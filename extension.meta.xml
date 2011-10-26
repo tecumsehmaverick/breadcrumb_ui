@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="breadcrumb_ui">
+	<name>Breadcrumb UI</name>
+	<description>An intelligent breadcrumb interface with AJAX connectivity.</description>
+	<repo type="github">https://github.com/rowan-lewis/breadcrumb_ui</repo>
+	<url type="discuss">http://symphony-cms.com/discuss/thread/70345/</url>
+	<types>
+		<type>Interface</type>
+	</types>
+	<authors>
+		<author>
+			<name github="rowan-lewis" symphony="buzzomatic">Rowan Lewis</name>
+			<website>http://nbsp.io/</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="0.3" date="2011-06-09" min="2.2" />
+	</releases>
+</extension>
